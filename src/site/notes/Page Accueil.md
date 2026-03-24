@@ -15,16 +15,16 @@ Bienvenue sur la plateforme dédiée à mon projet Digital Garden, préparation 
 
 ## Sujet 2 : Sécurisation d'une infrastructure DMZ
 
-[Fiche de recettage - Sujet 2]
+[[Fiche de recettage - Sujet 2\|Fiche de recettage - Sujet 2]]
 ### 1. Validation des machines virtuelles
-- [1.1 VM Stormshield SNS EVA1 (VirtualBox)]
-- [1.2 VM Serveur GLPI (VirtualBox)]
-- [1.3 VM Poste client (VirtualBox)]
+- [[1.1 VM Stormshield SNS EVA1 (VirtualBox)\|1.1 VM Stormshield SNS EVA1 (VirtualBox)]]
+- [[1.2 VM Serveur GLPI (VirtualBox)\|1.2 VM Serveur GLPI (VirtualBox)]]
+- [[1.3 VM Poste client (VirtualBox)\|1.3 VM Poste client (VirtualBox)]]
 
 ### 2. Validation des compétences techniques
-- [2.1 Configuration Réseau Linux]
-- [2.2 Changement de port Apache]
-- [2.3 Changement de port SSH]
-- [2.4 Utilisation de netcat (simulation de services)]
-- [2.5 Pare-feu Stomshield SNS EVA1]
-- [2.6 DNS Technitium]
+- [[2.1 Configuration Réseau Linux\|2.1 Configuration Réseau Linux]]
+- [[2.2 Changement de port Apache\|2.2 Changement de port Apache]]
+- [[2.3 Changement de port SSH\|2.3 Changement de port SSH]]
+- [[2.4 Utilisation de netcat (simulation de services)\|2.4 Utilisation de netcat (simulation de services)]]
+- [[2.5 Pare-feu Stomshield SNS EVA1\|2.5 Pare-feu Stomshield SNS EVA1]]
+- [[2.6 DNS Technitium\|2.6 DNS Technitium]]
