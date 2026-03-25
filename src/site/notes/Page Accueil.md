@@ -26,5 +26,5 @@ Bienvenue sur la plateforme dédiée à mon projet Digital Garden, préparation 
 - [[2.2 Changement de port Apache\|2.2 Changement de port Apache]]
 - [[2.3 Changement de port SSH\|2.3 Changement de port SSH]]
 - [[2.4 Utilisation de netcat (simulation de services)\|2.4 Utilisation de netcat (simulation de services)]]
-- [[2.5 Pare-feu Stomshield SNS EVA1\|2.5 Pare-feu Stomshield SNS EVA1]]
+- [[2.5 Pare feu Stormshield SNS EVA1\|2.5 Pare feu Stormshield SNS EVA1]]
 - [[2.6 DNS Technitium\|2.6 DNS Technitium]]
