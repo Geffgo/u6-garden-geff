@@ -15,7 +15,7 @@ Bienvenue sur la plateforme dédiée à mon projet Digital Garden, préparation 
 
 ## Sujet 2 : Sécurisation d'une infrastructure DMZ
 
-[[Fiche de recettage Sujet 2\|Fiche de recettage Sujet 2]]
+[Recettage_Sujet2_Securisation_DMZ.pdf](/img/user/Recettage_Sujet2_Securisation_DMZ.pdf)
 ### 1. Validation des machines virtuelles
 - [[1.1 VM Stormshield SNS EVA1 (VirtualBox)\|1.1 VM Stormshield SNS EVA1 (VirtualBox)]]
 - [[1.2 VM Serveur GLPI (VirtualBox)\|1.2 VM Serveur GLPI (VirtualBox)]]
