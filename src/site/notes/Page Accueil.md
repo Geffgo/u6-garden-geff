@@ -11,8 +11,10 @@ Bienvenue sur la plateforme dédiée à mon projet Digital Garden, préparation 
 - **Accessibilité :** Consultation des rapports et contrôle du jardin via une interface web centralisée.
 - **Centralisation des données :** Centraliser toute les connaissances nécessaires à l'obtention de l'examen pratique. 
 
-## Sujet 1 : Infrastructure réseau haute disponibilité
+## Compte rendu pratique
 
+[[Compte Rendu Technique . Sauvegarde et Migration de Machine Virtuelle sur Support Externe\|Compte Rendu Technique . Sauvegarde et Migration de Machine Virtuelle sur Support Externe]]
+## Sujet 1 : Infrastructure réseau haute disponibilité
 
 ### 1. Validation des machines virtuelles
 
@@ -21,7 +23,6 @@ Bienvenue sur la plateforme dédiée à mon projet Digital Garden, préparation 
 - [[1.3 VM HAProxy\|1.3 VM HAProxy]]
 - [[1.4 VM Poste client\|1.4 VM Poste client]]
 - [[1.5 VM DHCP\|1.5 VM DHCP]]
-- [[1.6 Conteneur Docker Technitium DNS\|1.6 Conteneur Docker Technitium DNS]]
 
 ### 2. Validation des compétences techniques
 
@@ -34,12 +35,11 @@ Bienvenue sur la plateforme dédiée à mon projet Digital Garden, préparation 
 
 ## Sujet 2 : Sécurisation d'une infrastructure DMZ
 
-[Recettage_Sujet2_Securisation_DMZ.pdf](/img/user/Recettage_Sujet2_Securisation_DMZ.pdf)
-
+[[Recettage Sujet 2\|Recettage Sujet 2]]
 ### 1. Validation des machines virtuelles
-- [[1.1 VM Stormshield SNS EVA1 (VirtualBox)\|1.1 VM Stormshield SNS EVA1 (VirtualBox)]]
-- [[1.2 VM Serveur GLPI (VirtualBox)\|1.2 VM Serveur GLPI (VirtualBox)]]
-- [[1.3 VM Poste client (VirtualBox)\|1.3 VM Poste client (VirtualBox)]]
+- [[1.1 VM Stormshield SNS EVA1\|1.1 VM Stormshield SNS EVA1]]
+- [[1.2 VM Serveur (GLPI)\|1.2 VM Serveur (GLPI)]]
+- [[1.3 VM Poste client\|1.3 VM Poste client]]
 
 ### 2. Validation des compétences techniques
 - [[2.1 Configuration Réseau Linux 2\|2.1 Configuration Réseau Linux 2]]
