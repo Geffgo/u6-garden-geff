@@ -14,7 +14,13 @@ Bienvenue sur la plateforme dédiée à mon projet Digital Garden, préparation 
 ## Compte rendu pratique
 
 [[Compte Rendu Technique . Sauvegarde et Migration de Machine Virtuelle sur Support Externe\|Compte Rendu Technique . Sauvegarde et Migration de Machine Virtuelle sur Support Externe]]
+
+---
+---
+
 ## Sujet 1 : Infrastructure réseau haute disponibilité
+
+[[Recettage Sujet 1\|Recettage Sujet 1]]
 
 ### 1. Validation des machines virtuelles
 
@@ -33,6 +39,8 @@ Bienvenue sur la plateforme dédiée à mon projet Digital Garden, préparation 
 - [[2.5 DNS Technitium\|2.5 DNS Technitium]]
 - [[2.6 DHCP (isc-dhcp-server)\|2.6 DHCP (isc-dhcp-server)]]
 
+---
+---
 ## Sujet 2 : Sécurisation d'une infrastructure DMZ
 
 [[Recettage Sujet 2\|Recettage Sujet 2]]
