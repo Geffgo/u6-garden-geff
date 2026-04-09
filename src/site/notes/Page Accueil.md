@@ -17,6 +17,11 @@ Bienvenue sur la plateforme dédiée à mon projet Digital Garden, préparation 
 
 ---
 ---
+## Github U6 Preparation
+
+```
+https://github.com/Geffgo/U6-Preparation.git
+```
 
 ## Sujet 1 : Infrastructure réseau haute disponibilité
 
